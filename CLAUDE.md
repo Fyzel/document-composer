@@ -208,7 +208,7 @@ To start working on a feature, you should:
 
 Read the relevant GitHub issue (or create one if needed)
 Checkout main and pull the latest changes
-Create a new branch like `claude/feature-name'. NEVER commit to main. NEVER push to origin/main.
+Create a new branch like 'claude/feature-name'. NEVER commit to main. NEVER push to origin/main.
 
 2. Development
 
@@ -217,7 +217,7 @@ When you have a draft of what you're working on, ask me to test it in the app to
 
 3. Review
 
-When the work is done, verify that the diff looks good with `git diff main'
+    When the work is done, verify that the diff looks good with `git diff main`
 While you should attempt to write code that adheres to our coding style, don't worry about manually linting or formatting your changes. There are pre-commit Git hooks that will do this for you.
 Push the branch to GitHub
 Open a PR.
