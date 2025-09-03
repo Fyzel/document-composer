@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-"document-composer" is a web application responsible for collaborative authoring of docucment segments that can be related to create aa document. The intent is to minimize reork of common document segments common across all documents of the same type. For example, a standrd document would include a common compliance and definitions segment that is used by all documents of the same type. Those document sections should be defined once and reused in the same document type. If the common document segment is updated, all documents that use that common segment will be updated automatically.
+"document-composer" is a web application responsible for collaborative authoring of document segments that can be related to create a document. The intent is to minimize rework of common document segments common across all documents of the same type. For example, a standard document would include a common compliance and definitions segment that is used by all documents of the same type. Those document sections should be defined once and reused in the same document type. If the common document segment is updated, all documents that use that common segment will be updated automatically.
 
 Documents will be generated in multiple formats including Microsoft Word, plain text, markdown automatically after they have been approved for publication. Draft documents can be generated in multiple formats including Microsoft Word, plain text, markdown as requested.
 
